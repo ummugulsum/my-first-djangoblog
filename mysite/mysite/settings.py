@@ -25,7 +25,7 @@ SECRET_KEY = 'ahp&8_2(x1!rs6_jmbfn0kz8@v)-vp6x8@o-6)w8$6)$)a#xn1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['ukare.pythonanywhere.com']
+ALLOWED_HOSTS = ['ukare.pythonanywhere.com',]
 
 
 # Application definition
